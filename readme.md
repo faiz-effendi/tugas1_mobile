@@ -1,4 +1,4 @@
-![Banner](assets/images/display)
+![Banner](assets/images/display.png)
 
 # 📱 Tugas 1 Mobile
 
