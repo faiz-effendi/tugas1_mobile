@@ -1,4 +1,4 @@
-![Banner](assets/images/display.png)
+<img src="assets/images/display.png" width="300" />
 
 # 📱 Tugas 1 Mobile
 
