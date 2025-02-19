@@ -1,16 +1,28 @@
-# layouting_androidstudio
+![Banner](assets/images/display.png)
 
-A new Flutter project.
+# 📱 Tugas 1 Mobile
 
-## Getting Started
+🚀 **Repositori ini berisi tugas pertama untuk mata kuliah Mobile Development.**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Deskripsi
+Tugas ini mencakup pembuatan layout aplikasi mobile sederhana menggunakan framework yang ditentukan oleh dosen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Fitur
+✅ Tampilan antarmuka sederhana  
+✅ Fungsi dasar sesuai dengan ketentuan tugas  
+✅ Responsif di berbagai ukuran layar  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Instalasi
+1. Clone repositori ini:
+   ```sh
+   git clone https://github.com/faiz-effendi/tugas1_mobile.git
+   ```
+2. Buka proyek di Android Studio atau editor yang sesuai.
+
+## 👨‍💻 Kontributor
+- **Faiz Effendi | 123220139**
+
+---
+💡 *Happy Coding!* 🚀
