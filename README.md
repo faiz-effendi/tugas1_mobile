@@ -1,4 +1,6 @@
-<img src="assets/images/display.png" width="300" />
+<div align="center">
+   <img src="assets/images/display.png" width="400" />
+</div>
 
 # 📱 Tugas 1 Mobile
 
